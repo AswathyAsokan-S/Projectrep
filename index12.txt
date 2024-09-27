@@ -1,2 +1,3 @@
 This is the first line in firstbranch.
 Contains some contents that used for develop.
+This line can't be varied.
